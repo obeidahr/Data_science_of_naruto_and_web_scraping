@@ -1,4 +1,6 @@
 ![naruto_image](images/naruto.jpg)
+Naruto is the hero of the story accordig to statistics
+![naruto](https://github.com/user-attachments/assets/83179d8b-3cf2-4d49-94fc-f7e523be4076)
 
 ## Overview
 In this project, we have created four folders, each containing the code for a different part of the project:
